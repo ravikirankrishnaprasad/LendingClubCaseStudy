@@ -1,7 +1,7 @@
 # Lending Club Loan Data Analysis
 
 ## Introduction
-This project analyzes the Lending Club loan dataset to identify factors that contribute to loan defaults. By understanding these factors, we aim to assist in minimizing credit losses by predicting risky loan applicants more accurately. The project involves data cleaning, manipulation, exploration, and visualization techniques.
+This project focuses on analyzing loan application data to identify patterns associated with loan default risk. The objective is to assist a consumer finance company in making informed decisions when approving loans for urban customers. Incorrect loan approvals can result in financial loss, while denying loans to creditworthy applicants may lead to missed business opportunities. By applying exploratory data analysis (EDA), we aim to uncover insights that help minimize lending risks and improve the company’s risk analytics strategy. The analysis will support actions like adjusting loan amounts, interest rates, or rejecting high-risk applications.
 
 ## Data Preparation and Cleaning
 - **Libraries Used**: Pandas, NumPy, Matplotlib, Seaborn. Warnings were suppressed for cleaner output.
